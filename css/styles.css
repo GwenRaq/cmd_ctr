@@ -3,10 +3,12 @@
 	height:100px;
 	width: 100px;
 	font-size:10px;
+	border:dotted black;
 } 
 #box2{
 	background-color:yellow;
 	height:100px;
 	width: 100px;
 	font-size:10px;
+	border: dotted lightpink;
 } 
