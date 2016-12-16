@@ -1,5 +1,6 @@
-console.log("Sanity check");
 var box = document.getElementById('box');
+var box2 = document.getElementById('box2');
+
 function okay() {
 	box.style.backgroundColor = "blue";
 }
@@ -9,9 +10,9 @@ function leave(){
 }
 
 function another(){
-	box.style.backgroundColor = "lightblue";
+	box2.style.backgroundColor = "lightblue";
 }
 
 function out(){
-	box.style.backgroundColor = "purple";
+	box2.style.backgroundColor = "purple";
 }
